@@ -4,7 +4,7 @@ This is a minimal Node.js backend that implements OAuth login using **GitHub** a
 
 It's designed to help you understand the full OAuth flow — from redirecting users to a provider, to handling the callback, exchanging the code for a token, and retrieving user info.
 
-YouTube: [OAuth 2.0 in Node.js](https://www.youtube.com/watch?v=your_video_link)
+YouTube: [OAuth 2.0 in Node.js](https://youtu.be/OfEwYw3byJc?si=H3gJVfQLlyWYPqN5)
 
 ---
 
